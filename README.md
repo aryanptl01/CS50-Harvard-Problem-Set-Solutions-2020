@@ -16,8 +16,8 @@ Link to pset1: https://cs50.harvard.edu/x/2020/psets/1/
 Notes
 ----------
 
-- All codes in this repository have passed the make50 with a 100% so you don't have to worry about the code bein inaccurate.
-- I'll still let you guys know of how much my solutions have scored.
+- All codes in this repository have passed the make50 with a 100% so you don't have to worry about the code being inaccurate.
+- I'll also upload the score of my solutions.
 - Suggestions to make the code better are welcome!
 
 References
