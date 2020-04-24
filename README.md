@@ -7,6 +7,7 @@ Problem Set 0
 ----------
 
 Link to pset0: https://cs50.harvard.edu/x/2020/psets/0/
+My Score: 100%
 
 Problem Set 1
 ----------
@@ -17,7 +18,7 @@ Notes
 ----------
 
 - All codes in this repository have passed the make50 with a 100% so you don't have to worry about the code being inaccurate.
-- I'll also upload the score of my solutions.
+- You can still check my total score using check50 for code accuracy and style50 for code styling.
 - Suggestions to make the code better are welcome!
 
 References
