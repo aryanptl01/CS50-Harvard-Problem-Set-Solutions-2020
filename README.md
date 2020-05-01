@@ -13,6 +13,11 @@ Problem Set 1
 
 Link to pset1: https://cs50.harvard.edu/x/2020/psets/1/
 
+Problem Set 2
+----------
+
+Link to pset2: https://cs50.harvard.edu/x/2020/psets/2/
+
 Notes
 ----------
 
