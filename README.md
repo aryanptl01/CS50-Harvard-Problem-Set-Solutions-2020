@@ -20,12 +20,17 @@ Problem Set 2
 
 Link to pset2: https://cs50.harvard.edu/x/2020/psets/2/
 
+Problem Set 3
+----------
+
+Link to pset3: https://cs50.harvard.edu/x/2020/psets/3/
+
 Notes
 ----------
 
-- All codes in this repository have passed the make50 with a 100% so you don't have to worry about the code being inaccurate.
+- All codes in this repository have passed the check50 with a 100% so you don't have to worry about the code being inaccurate.
 - You can still check the total score using " check50 " for code accuracy and " style50 " for code styling.
-- Suggestions to make the code better are welcome!
+- Suggestions to make the code better are always appreciated!
 
 References
 ----------
