@@ -1,0 +1,14 @@
+.title
+{
+    text-align: center;
+    background-color:AliceBlue;
+}
+h2
+{
+    display:inline;
+    background-color:CornSilk;
+}
+body
+{
+    background-image: url("bdi.jpg");
+}

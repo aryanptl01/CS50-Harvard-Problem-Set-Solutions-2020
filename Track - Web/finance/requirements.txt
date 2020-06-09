@@ -1,0 +1,8 @@
+cs50
+Flask
+Flask-Session
+requests
+
+cd pset8/finance
+export API_KEY=pk_51e37f90303f4d759111f74c8cfd2f16
+flask run
